@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Aurebesh', Arial, sans-serif;
+    font-family: 'aurebeshregular', Arial, sans-serif;
     font-style:normal;
     padding: 0px;
     list-style: none;
@@ -21,12 +21,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family: 'Aurebesh', Arial, sans-serif;
+    font-family: 'aurebeshregular', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
 }
 p {
-    font-family: 'Aurebesh', Arial, sans-serif;
+    font-family: 'aurebeshregular', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
     color: #333;
@@ -34,7 +34,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    font-family: 'Aurebesh', Arial, sans-serif;
+    font-family: 'aurebeshregular', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
 }
