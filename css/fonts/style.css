@@ -1,0 +1,7 @@
+@font-face {
+font-family: "Aurebesh";
+src: url("css/fonts/Aurebesh.ttf");
+src: 
+url("css/fonts/Aurebesh.woff") format("woff"),
+url("css/fonts/Aurebesh.woff2") format("woff2");
+}
