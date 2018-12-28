@@ -25,6 +25,9 @@ h1 {
     font-style:normal;
 }
 p {
+    font-family: 'Aurebesh', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
