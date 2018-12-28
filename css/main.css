@@ -31,7 +31,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, p {
+body, nav ul, footer ul, nav ul li, footer ul li, h1, p, footer, ul.posts, ul.posts li {
     font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
 }
 h1 {
