@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'aurebeshregular';
+    font-family: 'aurebesh_bold-webfont';
     src: url('aurebesh_bold-webfont.eot');
     src: url('aurebesh_bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('aurebesh_bold-webfont.woff2') format('woff2'),
@@ -32,7 +32,7 @@ a:hover {
     text-decoration: underline;
 }
 h1, p {
-    font-family: 'aurebeshregular', 'Sans-Seriff';
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
 }
 h1 {
     font-size: 3em;
