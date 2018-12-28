@@ -12,46 +12,53 @@
 }
 
 body {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     display: inline;
     margin-right: 20px;
 }
 a {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     text-decoration: none;
     color: #999;
 }
 a:hover {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     text-decoration: underline;
 }
-body, nav ul, footer ul, nav ul li, footer ul li, h1, p, footer, ul.posts, ul.posts li {
-    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
-}
 h1 {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     font-size: 3em;
 }
 p {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
+    font-family: 'aurebesh_bold-webfont', 'Arial', 'Sans-Seriff';
     list-style: none;
 }
