@@ -31,6 +31,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+h1, p {
+    font-family: 'aurebeshregular', 'Sans-Seriff';
+}
 h1 {
     font-size: 3em;
 }
